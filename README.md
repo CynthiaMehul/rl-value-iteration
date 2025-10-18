@@ -37,13 +37,13 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 # Optimal Policy
-<img width="496" height="137" alt="image" src="https://github.com/user-attachments/assets/f8a8816d-acb6-43b7-9c0a-5bc75d36b69c" />
+<img width="387" height="141" alt="image" src="https://github.com/user-attachments/assets/39ef346c-b33b-49bc-b76b-4aca2ef4a5d2" />
 
 # Success Rate for the Optimal Policy
-<img width="698" height="52" alt="image" src="https://github.com/user-attachments/assets/dc98d609-68f1-43d2-a690-c0d9e13ba2ca" />
+<img width="530" height="57" alt="image" src="https://github.com/user-attachments/assets/15f5e459-4348-4046-bb6d-b49eff5be9db" />
 
 # Optimal value function 
-<img width="444" height="114" alt="image" src="https://github.com/user-attachments/assets/d7bf515c-068c-4284-a2a2-74aa24127a80" />
+<img width="367" height="118" alt="image" src="https://github.com/user-attachments/assets/a56c7af8-9030-4cda-a30e-fd2f0a25f35b" />
 
 ## RESULT:
 Therefore, value iteration algorithm to find optimal policy for the altered frozen lake environment is successfully implemented.
